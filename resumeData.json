@@ -1,18 +1,18 @@
 {
   "main": {
     "name":"Janani Nagaraj Amutha",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"Full-Stack Developer (Student)",
+    "description":"Back-end developer with Bachelor’s Degree in Computer Science & Engineering (India) and 4-years of professional experience as a Java developer. Recently earned a certificate in full stack development from University of California (Extension), San Diego.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Right now, I am a stay at home mother. I took a career break to raise my son. I considered a career change when i wanted to come back to the workforce. I worked as a pre-school teacher for few months. That is when I realized how much I miss coding and debugging. I wanted to pursue my developer profession again. I realized the technology field has changed drastically. So I started to self-learn new skills and joined bootcamp to get employer-ready. I am proficient in React, Node server, MySQL, Mongo database and MERN and demonstrate strong logical, analytical, problem solving skills. Eager to combine my background in Computer Science with my technical skills to develop robust and user friendly software.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "janani2285@gmail.com",
+    "phone": "(858)405-5149",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"10912, Creekbridge Pl",
+      "city":"San Diego",
+      "state":"California",
+      "zip": "92128"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
