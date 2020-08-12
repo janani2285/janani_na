@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/janani_na/static/css/main.5facb584.chunk.css",
-    "main.js": "/janani_na/static/js/main.a64139b3.chunk.js",
-    "main.js.map": "/janani_na/static/js/main.a64139b3.chunk.js.map",
+    "main.js": "/janani_na/static/js/main.d2a7c1f1.chunk.js",
+    "main.js.map": "/janani_na/static/js/main.d2a7c1f1.chunk.js.map",
     "runtime-main.js": "/janani_na/static/js/runtime-main.ef3b4b8f.js",
     "runtime-main.js.map": "/janani_na/static/js/runtime-main.ef3b4b8f.js.map",
     "static/js/2.07202ae0.chunk.js": "/janani_na/static/js/2.07202ae0.chunk.js",
     "static/js/2.07202ae0.chunk.js.map": "/janani_na/static/js/2.07202ae0.chunk.js.map",
     "index.html": "/janani_na/index.html",
-    "precache-manifest.49ea5922f6ef4302303dc69c390d1bf9.js": "/janani_na/precache-manifest.49ea5922f6ef4302303dc69c390d1bf9.js",
+    "precache-manifest.aef323dd247cb5e485233c694a89523a.js": "/janani_na/precache-manifest.aef323dd247cb5e485233c694a89523a.js",
     "service-worker.js": "/janani_na/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/janani_na/static/css/main.5facb584.chunk.css.map",
     "static/js/2.07202ae0.chunk.js.LICENSE.txt": "/janani_na/static/js/2.07202ae0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ef3b4b8f.js",
     "static/js/2.07202ae0.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.a64139b3.chunk.js"
+    "static/js/main.d2a7c1f1.chunk.js"
   ]
 }
