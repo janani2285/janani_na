@@ -107,9 +107,9 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "title":"Weather Dashboard",
+        "category":"An app that displays current weather and 5-day forecast",
+        "image":"weather.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {
