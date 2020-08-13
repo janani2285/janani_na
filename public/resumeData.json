@@ -2,7 +2,7 @@
   "main": {
     "name":"Janani Nagaraj Amutha",
     "occupation":"Full-Stack Developer (Student)",
-    "description":"Back-end developer with Bachelor’s Degree in Computer Science & Engineering (India) and 4-years of professional experience as a Java developer. Recently earned a certificate in full stack development from University of California (Extension), San Diego.",
+    "description":"Graduate with Bachelor’s Degree in Computer Science & Engineering (India) and 4-years of professional experience as a Java developer. Recently earned a certificate in full stack development from University of California (Extension), San Diego.",
     "image":"profilepic.jpg",
     "bio":"Right now, I am a stay at home mother. I took a career break to raise my son. I considered a career change when i wanted to come back to the workforce. I worked as a pre-school teacher for few months. That is when I realized how much I miss coding and debugging. I wanted to pursue my developer profession again. I realized the technology field has changed drastically. So I started to self-learn new skills and joined bootcamp to get employer-ready. I am proficient in React, Node server, MySQL, Mongo database and MERN and demonstrate strong logical, analytical, problem solving skills. Eager to combine my background in Computer Science with my technical skills to develop robust and user friendly software.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -16,11 +16,6 @@
     },
     "resumedownload":"https://drive.google.com/file/d/1HyKiqVXPxp6xtYI5dBVrYWkoh9m7-EmV/view?usp=sharing",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://www.facebook.com/janani.rajkumar.9/",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/janani-nagaraj-amutha-a53616173",
@@ -39,33 +34,39 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Below are some technologies, I have worked on with my level of expertise. ",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of San Diego (Extension), California, USA",
+        "degree":"Full Stack Developer Certification",
+        "graduated":"May 2016 - April 2018",
+        "description":"Full Stack Development"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"San Diego Miramar College, California, USA",
+        "degree":"Associate Teacher Certification",
+        "graduated":"May 2016 - April 2018",
+        "description":"Child Development"
+      },
+      {
+        "school":"Anna University, Tamil Nadu, India",
+        "degree":"Bachelor's in Engingeering (Computer Science)",
+        "graduated":"May 2006",
+        "description":"Computer Science and Engineering"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"La Petitie Acadamey, California, USA",
+        "title":"Teacher",
+        "years":"August 2018 - Febuary 2019",
+        "description":"Teacher for a group of 12, 4-5 year old kids."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Tata Consultancy Services, Tamil Nadu, India",
+        "title":"Java Developer",
+        "years":"January 2007 - May 2011",
+        "description":"Received client appreciation in British Telecom project for exhibiting thorough understanding of the requirement, meeting the deadlines, doing a thorough unit testing and perioding demos. This helped in identifying any gaps in requirements and taking decisions for such scenarios, thus providing the client with more functional and serviceable application. Received “Star of the month” in Nokia Siemens Network project for learning new technology (OIM) and implementing the same in the project thus providing the client a more optimized application. Received “Certificate of Recognition” in USAA project for exhibiting outstanding performance in the project and developing RESTful webservice with zero production defects. The technologies used are : Java, Restful API, OIM, Oracle, MySQL, Message Driven Beans."
       }
     ],
     "skills":[
@@ -74,8 +75,8 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"NodeJs",
+        "level":"75%"
       },
       {
         "name":"ReactJs",
@@ -83,15 +84,19 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"70%"
       },
       {
         "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"jQuery",
+        "level":"70%"
+      },
+      {
+        "name":"MySql",
+        "level":"80%"
       },
       {
         "name":"MongoDB",
