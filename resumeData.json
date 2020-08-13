@@ -107,34 +107,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Weather Dashboard",
+        "title":"WEATHER DASHBOARD",
         "category":"An app that displays current weather and 5-day forecast",
         "image":"weather.png",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://janani2285.github.io/Weather-Dashboard/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"EMOSIC",
+        "category":"This music app allows the user to choose a button (Happy, Sad, Mad, Love) depending on their mood and displays song suggestions depending upon user's choice.",
+        "image":"emosic.png",
+        "url":"https://lisbethmachado.github.io/emosic/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"BREW FAV'S",
+        "category":"An app for beer lovers which allows them to create a profile, search for beers and breweries, and save their favorites!",
+        "image":"brewFavs.png",
+        "url":"https://brewfavs.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"EAT-DA-BURGER",
+        "category":"A burger app where user is allowed to enter a burger name they like, button to devour it. ",
+        "image":"burger.png",
+        "url":"https://vast-springs-92238.herokuapp.com/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"BUDGET TRACKER",
+        "category":"This app allows the user to maintain their financial statment by entering expenses and deposits both online and offline.",
+        "image":"budget.png",
+        "url":"https://desolate-spire-49483.herokuapp.com/"
       }
     ]
   }
