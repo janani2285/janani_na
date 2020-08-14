@@ -15,7 +15,7 @@ class About extends Component {
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
-    console.log("profilepic-",profilepic)
+   
     return (
       <section id="about">
       <div className="row">
