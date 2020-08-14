@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edd5492aa1593db50995bdea701071d4",
+    "revision": "caffc370b81dddefe89ee8746d0ebbfd",
     "url": "/janani_na/index.html"
   },
   {
-    "revision": "71afa654d0d2e43a49f8",
+    "revision": "e821110f4f17f6a12d48",
     "url": "/janani_na/static/css/main.5facb584.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/janani_na/static/js/2.07202ae0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71afa654d0d2e43a49f8",
-    "url": "/janani_na/static/js/main.33aabf93.chunk.js"
+    "revision": "e821110f4f17f6a12d48",
+    "url": "/janani_na/static/js/main.51f8849e.chunk.js"
   },
   {
     "revision": "34c5de139e3623871331",
