@@ -108,13 +108,13 @@
     "projects": [
       {
         "title":"WEATHER DASHBOARD",
-        "category":"An app that displays current weather and 5-day forecast",
+        "category":"An app that displays current weather and 5-day forecast.",
         "image":"weather.png",
         "url":"https://janani2285.github.io/Weather-Dashboard/"
       },
       {
         "title":"EMOSIC",
-        "category":"This music app allows the user to choose a button (Happy, Sad, Mad, Love) depending on their mood and displays song suggestions depending upon user's choice.",
+        "category":"This music app displays song suggestions depending upon user's mood.",
         "image":"emosic.png",
         "url":"https://lisbethmachado.github.io/emosic/"
       },
@@ -135,6 +135,12 @@
         "category":"This app allows the user to maintain their financial statment by entering expenses and deposits both online and offline.",
         "image":"budget.png",
         "url":"https://desolate-spire-49483.herokuapp.com/"
+      },
+      {
+        "title":"GEOQUIZ",
+        "category":"GeoQuiz is a full stack MERN application that allows users to test their geographical knowledge by identifying countries on a map.",
+        "image":"geoquiz.png",
+        "url":"https://geo1quiz.herokuapp.com/signup"
       }
     ]
   }
