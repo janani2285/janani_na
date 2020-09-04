@@ -71,6 +71,14 @@
     ],
     "skills":[
       {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"javaScript",
+        "level":"60%"
+      },
+      {
         "name":"Git",
         "level":"60%"
       },
@@ -99,7 +107,7 @@
         "level":"80%"
       },
       {
-        "name":"MongoDB",
+        "name":"NoSQL",
         "level":"80%"
       }
     ]
