@@ -22,6 +22,8 @@ class Portfolio extends Component {
                   href={projects.url}
                   title={projects.title}
                   className="link-icon"
+                  target="_blank" 
+                  rel="noopener noreferrer" 
                 >
                   <i className="fa fa-link"></i>
                 </a>
@@ -30,6 +32,8 @@ class Portfolio extends Component {
                   title={projects.title}
                   className="link-icon"
                   style = {{paddingLeft:50}}
+                  target="_blank" 
+                  rel="noopener noreferrer" 
                 >
                   <i className="fa fa-github"></i>
                 </a>
