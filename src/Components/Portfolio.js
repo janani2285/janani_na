@@ -17,23 +17,22 @@ class Portfolio extends Component {
                     <p>{projects.category}</p>
                   </div>
                 </div>
-                
                 <a
+                  className="link-icon"
                   href={projects.url}
                   title={projects.title}
-                  className="link-icon"
-                  target="_blank" 
-                  rel="noopener noreferrer" 
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <i className="fa fa-link"></i>
                 </a>
                 <a
                   href={projects.giturl}
                   title={projects.title}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="link-icon"
-                  style = {{paddingLeft:50}}
-                  target="_blank" 
-                  rel="noopener noreferrer" 
+                  style={{ paddingLeft: 20, marginLeft: 20 }}
                 >
                   <i className="fa fa-github"></i>
                 </a>
